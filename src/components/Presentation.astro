@@ -1,10 +1,8 @@
 ---
 import SocialMedia from "../components/SocialMedia.astro";
-import HeaderMobile from "./molecules/HeaderMobile.astro";
 ---
 
 <section id="inicio" class="presentation-container">
-  <HeaderMobile/>
   <div class="presentation">
     <h1>DESARROLLO <br /> WEB ESCALABLE</h1>
     <h3 class="title-3">Joseverdev Fullstack Developer</h3>
@@ -43,7 +41,7 @@ import HeaderMobile from "./molecules/HeaderMobile.astro";
   .presentation-container {
     height: 100vh;
     overflow: auto;
-    background-image: url('/images/bg.jpg');
+    background-image: url("/images/bg.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -53,7 +51,7 @@ import HeaderMobile from "./molecules/HeaderMobile.astro";
   }
 
   .presentation-container::before {
-    content: '';
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
@@ -99,7 +97,6 @@ import HeaderMobile from "./molecules/HeaderMobile.astro";
   }
 
   @media (min-width: 600px) {
-    
     .presentation-container {
       display: flex;
       flex-direction: column;
