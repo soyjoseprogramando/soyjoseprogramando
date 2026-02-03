@@ -1,33 +1,14 @@
 ---
-import {
-  Home,
-  FolderCode,
-  Brain,
-  MailPlus,
-  BookOpen,
-  Terminal,
-  Search,
-  Camera,
-  Logs,
-} from "@lucide/astro";
+import { Logs, SquareTerminal } from "@lucide/astro";
 
-const navItems = [
-  { path: "/", label: "Inicio", icon: Home },
-  { path: "/blog", label: "Blog", icon: BookOpen },
-  { path: "/linux", label: "Linux", icon: Terminal },
-  { path: "/javascript", label: "JS", icon: FolderCode },
-  { path: "/algoritmos", label: "Algoritmos", icon: Brain },
-];
+const navItems = [{ path: "/about", label: "about" }];
 ---
 
 <nav>
   <div class="nav nav--always-visible">
-    <!-- <div class="nav__container">
-      <img class="nav__img" src="/images/logo.png" alt="" />
-    </div> -->
-    <Logs size="16" />
-    <a href="/" class="nav__username">JOSEVERDEV</a>
-    <Search size="20" />
+    <SquareTerminal color="#ff6b35" stroke-width={3} />
+    <a href="/" class="nav__username">~/joseprogramando</a>
+    <Logs />
   </div>
 
   <script></script>
@@ -74,16 +55,6 @@ const navItems = [
 
     .nav__username:hover {
       opacity: 0.8;
-    }
-
-    @media (min-width: 600px) {
-      .nav--hideable {
-        display: none;
-      }
-
-      .nav--always-visible {
-        display: flex;
-      }
     }
   </style>
 </nav>
