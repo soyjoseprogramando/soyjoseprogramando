@@ -27,7 +27,7 @@
   --bg-dark-box: #1d1d1d;
   --bg-dark-light: #232323;
   --text-grey: #cccccc;
-  --text-white: #ffffff;
+  --text-white: #ededed;
 
   --orange: #ff6b35;
   /* --orange-transparent: rgba(255, 107, 53, 0.5); */
@@ -108,7 +108,7 @@ body {
 
 body {
   background: var(--bg-dark-light);
-  color: #fff;
+  color: var(--text-white);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
