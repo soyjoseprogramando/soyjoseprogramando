@@ -2,9 +2,9 @@
 
 Bienvenido a mi perfil de GitHub. Soy un desarrollador **junior** apasionado por la tecnología, enfocado en **frontend** y actualmente expandiendo mis habilidades hacia el **backend** para convertirme en **desarrollador Fullstack**.
 
-Visita mi web **https://josever.dev**
+Visita mi web **https://joseprogramando.com**
 
-Contactame **jmu3612@gmail.com**
+Contactame **joseprogramando@gmail.com**
 
 ## 🚀 Sobre mí
 - 🎯 Buscando mi primera oportunidad laboral en el mundo del desarrollo web.
