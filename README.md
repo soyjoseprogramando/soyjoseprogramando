@@ -16,12 +16,12 @@ Contactame **joseprogramando@gmail.com**
 ## 🛠️ Tecnologías y herramientas
 ![Lenguajes](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github)
 
-## 🌐 Redes Sociales
+<!-- ## 🌐 Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-ever-mu%C3%B1oz-mu%C3%B1oz-ab07612b2/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/joseverdev)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/joseverdev)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@joseverdev)
-
+-->
 
 <!-- ## 📈 Estadísticas de GitHub
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=joseverdev&show_icons=true&theme=radical)
